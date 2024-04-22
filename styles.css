@@ -1,0 +1,72 @@
+
+header {
+    background-color: #333; 
+    color: #fff;
+    padding: 5px;
+}
+
+
+body {
+    background-color: #fff; 
+    color: #333;
+    font-family: Arial, sans-serif; 
+}
+
+
+h1, h2 {
+    font-size: 24px; 
+}
+
+p {
+    font-size: 16px; 
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav {
+    text-align: left;
+    margin-top: 10px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 10px;
+}
+/* Estilo para cite y blockquote */
+cite, blockquote {
+    font-style: italic;
+}
+
+abbr {
+    border-bottom: 1px dotted #333; 
+}
+
+
+strong {
+    font-weight: bold; }
+
+/* Estilo para em */
+em {
+    font-style: italic; /* Estilo italic */
+}
+
+section {
+    margin: 20px;
+}
+footer {
+    background-color: #333; 
+    padding: 20px;
+}
